@@ -6,10 +6,10 @@ What you need to do
 -------------------
 
 First, install the following applications:
-- Visual Studio Code(https://code.visualstudio.com/)
-- MySQL Community Edition(https://dev.mysql.com/downloads/mysql/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [MySQL Community Edition](https://dev.mysql.com/downloads/mysql/)
 
-`Under construction!`.
+`Under construction!`
 
 
 License
