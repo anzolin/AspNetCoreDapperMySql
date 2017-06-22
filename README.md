@@ -1,5 +1,5 @@
 # ASP.NET Core, Dapper ORM and MySql
-A simple project using ASP.NET Core, Dapper ORM and MySQL.
+A simple example project using ASP.NET Core, Dapper ORM and MySQL.
 
 
 What you need to do
@@ -12,6 +12,14 @@ First, install the following applications:
 - [MySQL Community Edition](https://dev.mysql.com/downloads/mysql/)
 
 `Under construction!`
+
+
+Nuget packages
+--------------
+
+- Dapper
+- Dapper.Contrib
+- MySqlConnector
 
 
 License
