@@ -6,7 +6,9 @@ What you need to do
 -------------------
 
 First, install the following applications:
+- [.NET Core SDK](https://www.microsoft.com/net/download/core)
 - [Visual Studio Code](https://code.visualstudio.com/)
+- [C# for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
 - [MySQL Community Edition](https://dev.mysql.com/downloads/mysql/)
 
 `Under construction!`
