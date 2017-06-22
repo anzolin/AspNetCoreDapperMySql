@@ -17,9 +17,9 @@ First, install the following applications:
 Nuget packages
 --------------
 
-- Dapper
-- Dapper.Contrib
-- MySqlConnector
+- [Dapper](https://www.nuget.org/packages/Dapper)
+- [Dapper.Contrib](https://www.nuget.org/packages/Dapper.Contrib/)
+- [MySqlConnector](https://www.nuget.org/packages/MySqlConnector/)
 
 
 License
