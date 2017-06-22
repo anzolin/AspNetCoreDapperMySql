@@ -11,7 +11,7 @@ First, install the following applications:
 - [C# for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
 - [MySQL Community Edition](https://dev.mysql.com/downloads/mysql/)
 
-`Under construction!`
+`This section is under construction!`
 
 
 Nuget packages
