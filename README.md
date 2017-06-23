@@ -3,10 +3,13 @@ A simple example project using ASP.NET Core, Dapper ORM and MySQL.
 
 I met .Net Core and Dapper ORM through my work buddy [@thiagodds](https://github.com/thiagodds). Here's my thank you for you. :+1:
 
+```
+This tutorial is under construction!
+```
+
+
 What you need to do
 -------------------
-
-`This section is under construction!`
 
 First, install the following applications:
 - [.NET Core SDK](https://www.microsoft.com/net/download/core)
