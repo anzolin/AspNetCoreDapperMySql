@@ -223,7 +223,16 @@ About the author
 
 Hello everyone, my name is Diego Anzolin Ferreira. I'm a .NET developer from Brazil. I hope you will enjoy this simple example application as much as I enjoy developing it. If you have any problems, you can post a [GitHub issue](https://github.com/anzolin/AspNetCoreDapperMySql/issues). You can reach me out at diego@anzolin.com.br.
 
->Want to help me keep creating open source projects, make a donation: [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?business=DN2VPNW42RTXY&no_recurring=0&currency_code=BRL) Thank you!
+
+Donate
+------
+  
+Want to help me keep creating open source projects, make a donation:
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?business=DN2VPNW42RTXY&no_recurring=0&currency_code=BRL)
+
+Thank you!
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
