@@ -18,10 +18,6 @@
 # ASP.NET Core, Dapper ORM and MySql
 A simple example project using ASP.NET Core, Dapper ORM and MySQL.
 
-```
-This tutorial is under construction!
-```
-
 
 What you need to do
 -------------------
